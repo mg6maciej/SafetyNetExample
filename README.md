@@ -18,3 +18,7 @@ Run server with:
     ./gradlew bootRun
 
 Run client app on emulator on the same machine (server address hardcoded http://10.0.2.2:8080/, so emu connects without problems).
+
+### Slides
+
+http://slides.com/mg6maciej/safetynet-android-security-mo2017
